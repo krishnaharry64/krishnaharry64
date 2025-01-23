@@ -6,7 +6,9 @@
 - 📫 How to reach me **krishnaharry64@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<img src="https://media.giphy.com/media/K5kfQEx..." width="450" align="right" alt="">
+
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.thisiscolossal.com%2F2018%2F04%2Fanimation-of-sinusoidal-waves-in-gifs-by-etienne-jacob%2F&psig=AOvVaw1mlo9czJrFaPSGJ_kx5YBn&ust=1737698934548000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCOCorZOXi4sDFQAAAAAdAAAAABAE" width="450" align="right" alt=""
+
 <p align="left">
 </p>
 
