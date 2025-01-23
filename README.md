@@ -6,7 +6,7 @@
 - 📫 How to reach me **krishnaharry64@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<img src="https://www.thisiscolossal.com/wp-content/uploads/2018/04/agif1opt.gif" width="450" align="right" alt="">
+<img src="https://www.thisiscolossal.com/wp-content/uploads/2018/04/agif1opt.gif" width="500px" align="right" alt="">
 <p align="left">
 </p>
 
