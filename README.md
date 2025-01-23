@@ -6,6 +6,7 @@
 - 📫 How to reach me **krishnaharry64@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+<img src="https://media.giphy.com/media/K5kfQEx..." width="450" align="right" alt="">
 <p align="left">
 </p>
 
